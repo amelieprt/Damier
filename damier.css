@@ -1,0 +1,10 @@
+body { background : gray; }
+table { border-collapse:collapse; }
+td {
+		width : 40pt;
+		height: 40pt;
+	}
+td.blanc { background : white; }
+td.noir { background : black; }
+td.rouge { background : red; }
+
